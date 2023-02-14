@@ -8,9 +8,9 @@ This is a simple TODO list application built with Flask and SQLite.
 
 # Requirements:
 
-Python 3.x
-Flask
-Flask-SQLAlchemy
+-Python 3.x
+-Flask
+-Flask-SQLAlchemy
 
 # Installation:
 
